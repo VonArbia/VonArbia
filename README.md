@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code
 - 📫 How to reach me flopiarbia@hotmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have the power to teleport
+- ⚡ Fun fact: I'm spiderman but don't tell anyone pretty please
 - Buenos Aires Argentina 2024
 <!---
 VonArbia/VonArbia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
